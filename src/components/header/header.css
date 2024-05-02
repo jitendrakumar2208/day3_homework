@@ -1,0 +1,30 @@
+.header {
+  border: 1px solid pink;
+  height: 150px;
+}
+.title {
+  background-color: #fff;
+  margin-bottom: 20px;
+}
+.title h1 {
+  color: brown;
+  font-size: 40px;
+  /* padding: 15px 0; */
+}
+.title p {
+  color: #212121;
+}
+.navbar {
+  width: 100%;
+  background-color: rgb(89, 74, 104);
+  color: #fff;
+  height: 50px;
+}
+.menu {
+  display: inline-block;
+  width: 25%;
+  padding: 15px 80px;
+}
+.active {
+  background-color: brown;
+}
